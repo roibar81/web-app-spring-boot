@@ -8,7 +8,7 @@ import java.util.Set;
 /**
  * This class represent a Author
  * it's a simple POJO
- * */
+ */
 @Entity
 public class Author {
 
